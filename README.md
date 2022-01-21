@@ -1,7 +1,7 @@
 # Vaka_Analizi
 
 Bu çalışmada 2 adet sorunun vaka analizi yapılmıştır.
-Questions 1:  
+Soru 1:  
 Gerekli kodlar,alan ve zaman karmaşıklığı açıklama satırları içerisinde anlatılmaktadır.
 Soru 2:
 Burada hospital.csv verisetinin analizi yapılacaktır.
