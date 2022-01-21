@@ -11,6 +11,6 @@ Uygulanacak adımlar şu şekildedir:
 2-Verisetinde eksik ve tutarsız değer var olup olmadığı analizi yapılır(nan type).
 3-Veri setinde eksik ve tutarsız veri yok ise verisetinde yer alan sütunlar incelenir.Verisetinde yer alan sütunlarda string veri yer alıyorsa burada one-hot-encoder işlemi uygulanır ve belirtilen sütunlar vektöre dönüştürülmüş olur.Verisetinde yer alan sütunlarda categorical veri yer alıyorsa burada label-encoder işlemi uygulanır ve belirtilen sütunlar binary(0,1) formuna dönüştürülür.
 4- Verisetinde yer alan değişkenler concat fonksiyonu aracılığı ile tekrar bir dataframe olarak birleştirilir.
-5- Veriler train test split metodu ile eğitim ve test verisi olarak bölünür.Verilerin,rnn veya lstm  uygulanarak model eğitimi gerçekleştirilip,model üzerinde prediction işlemi gerçekleştirilebilirdi.
+5- Veriler train test split metodu ile eğitim ve test verisi olarak bölünür.Veriler üzerinde çok nitelik bulunmasaydı, rnn veya lstm  uygulanarak model eğitimi gerçekleştirilip,model üzerinde prediction işlemi gerçekleştirilebilirdi.Rnn ve lstm mimarilerini tercih etmemin nedeni ise metinsel verilerde yüksek doğruluk elde edilebiliyor olmamız.
 
 Yine de soru2 yi pratik olarak python üzerinde uygulamaya çalıştım.Soru 2 de burada study2 olarak yer alıyor.
