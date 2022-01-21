@@ -13,3 +13,4 @@ Uygulanacak adımlar şu şekildedir:
 4- Verisetinde yer alan değişkenler concat fonksiyonu aracılığı ile tekrar bir dataframe olarak birleştirilir.
 5- Veriler train test split metodu ile eğitim ve test verisi olarak bölünür.Verilerin,rnn veya lstm  uygulanarak model eğitimi gerçekleştirilip,model üzerinde prediction işlemi gerçekleştirilebilirdi.
 
+Yine de soru2 yi pratik olarak python üzerinde uygulamaya çalıştım.Soru 2 yi de burada study2 olarak yer alıyor.
