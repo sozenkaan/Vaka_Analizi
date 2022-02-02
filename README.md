@@ -1,9 +1,9 @@
 # Vaka_Analizi
 
 Bu çalışmada 2 adet sorunun vaka analizi yapılmıştır.
-Soru 1:  
+** Soru 1:  
 Gerekli kodlar,alan ve zaman karmaşıklığı açıklama satırları içerisinde anlatılmaktadır.
-Soru 2:
+** Soru 2:
 Burada hospital.csv verisetinin analizi yapılacaktır.
 Burada denetimsiz öğrenme uygulayamayız.Çünkü string formatında veriler yer almakta olup bu veriler içerisinde çok sayıda nitelik yer aldığından dolayı one_hot_encoder uygulanamadığından veriler vektöre dönüştürülemeyecektir ve denetimsiz öğrenme uygulanamaz.
 Uygulanacak adımlar şu şekildedir:
